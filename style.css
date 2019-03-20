@@ -1,0 +1,15 @@
+body, html{
+	width: 100%;
+	height: 100%;
+}
+
+header.startup{
+	background-position: center;
+	background-image: url("http://fibrechannel-europe.com/wp-content/uploads/2018/04/digital-landscape-4-peaceful-ideas-bold-gardening-design.jpg");
+	background-size: cover;
+	height: 100%;
+
+}
+.btn{
+	align-content: center;
+}
